@@ -114,5 +114,3 @@ PREDICTION_HTML_PATH = os.path.join("webpages", "prediction_pages", YEAR_OF_USAG
 
 DOMINANT_DRIVERS = ["red_driver_1", "red_driver_2", "mcl_driver_1", "mcl_driver_2", "fer_driver_1", "fer_driver_2", "mer_driver_1", "mer_driver_2"]
 DOMINANT_TEAMS = ["red", "merc", "mcl", "fer"]
-
-GOOGLE_API_KEY = "AIzaSyBDPUYaCgVWCAfIOMdHTTcj0QJjsPlbcj4"
